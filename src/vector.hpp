@@ -3,10 +3,6 @@
 
 #include "exceptions.hpp"
 
-#include <climits>
-#include <cstddef>
-#include <new>
-
 namespace sjtu {
 
 template <typename T>
